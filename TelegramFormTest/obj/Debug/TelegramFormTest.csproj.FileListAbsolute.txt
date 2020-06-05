@@ -1,0 +1,14 @@
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.csprojAssemblyReference.cache
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.Form1.resources
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.Properties.Resources.resources
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\TelegramFormTest.exe.config
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\TelegramFormTest.exe
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\TelegramFormTest.pdb
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\Telegram.Bot.dll
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\bin\Debug\Telegram.Bot.xml
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.csproj.CopyComplete
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.exe
+C:\Users\Murat\source\repos\TelegramFormTest\TelegramFormTest\obj\Debug\TelegramFormTest.pdb
